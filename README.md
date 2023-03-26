@@ -14,6 +14,6 @@ This is a google app script to fetch the data from Bubble IO for any data type a
   4. Make sure the Cursor value is 0 if you are running the script for the first time so that the data gets updated from the start.
   5. Run the App Script on the sheet by adding the necessary URL, data type cursor info and sheet to be updated in the javascript file. The details and example are      present in the javascript files as well.
   
-### For any queries or issues, kindly raise a issue on the repo.
+### For any queries or issues, kindly raise an issue on the repo.
 
-### Contributions are more than welcome
+### Contributions are always welcomed.
