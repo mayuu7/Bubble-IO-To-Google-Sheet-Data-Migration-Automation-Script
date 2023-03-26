@@ -1,5 +1,5 @@
 # Google-Sheets-App-Script-To-Sync-Bubble-IO-Data
-This is a google app script to fetch the data from Bubble IO for any data type and update it. You can schedule a trigger in google app script to make sure this script runs everyday and it will update the data from Bubble IO to Google Sheets.
+This is a google app script to fetch the data from Bubble IO for any data type and update it on the google sheets. You can schedule a trigger in google app script to make sure this script runs everyday and it will update the data from Bubble IO to Google Sheets, thus creating a sync between google sheets and Bubble IO.
 
 
 ## To run this script on google app script, first you need to setup the sheets in a specified format. In Google Sheets, do the following :
